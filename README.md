@@ -51,25 +51,33 @@ The dataset includes various socio-economic metrics for South Asian countries. T
 ## Visualizations
 
 ### Summary of Visualizations Created
-1. **Bar Plot of Scaled Average Economic Indicators**: Displays scaled GDP, unemployment, and inflation rates for each country.
+ **Bar Plot of Scaled Average Economic Indicators**: Displays scaled GDP, unemployment, and inflation rates for each country.
+   
    ![image](https://github.com/user-attachments/assets/27ef1c27-ca50-43ec-bc59-c185cc495181)
 
    ![image](https://github.com/user-attachments/assets/0ce1fb2d-5ca5-4bdc-81c5-f42fb0eb752e)
+   
    ![image](https://github.com/user-attachments/assets/c932982e-9e30-4989-a68d-ef29f4c731a0)
 
 
  **Line Plot of Historical and Forecasted GDP Growth**: Plots GDP growth over time and future forecast for selected countries.
+
    ![image](https://github.com/user-attachments/assets/82ccb650-efdb-4f39-8774-ddfa4da5a240)
+   
    ![image](https://github.com/user-attachments/assets/1c8fbbaa-9445-4634-8320-f0e035ee873d)
+   
    ![image](https://github.com/user-attachments/assets/66fa0b0f-57f8-4a1c-bbe0-4df6670ce20e)
 
 
 
  **Heatmap of Correlation between Governance Metrics**: A heatmap showing the correlation matrix for governance indicators.
+  
   ![image](https://github.com/user-attachments/assets/accfdaa3-b005-4793-b524-80081df36f69)
 
  **Comparative Line Plots**: Line charts comparing various socio-economic indicators, such as GDP growth and unemployment rates, between countries.
+   
    ![image](https://github.com/user-attachments/assets/2b676590-9a85-4919-9189-ed4b9029461b)
+   
    ![image](https://github.com/user-attachments/assets/96c24139-ed68-41e3-bd15-dc989dc5b4bf)
 
 
